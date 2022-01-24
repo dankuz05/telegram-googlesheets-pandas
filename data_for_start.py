@@ -1,0 +1,13 @@
+bot_token= '' # Сюда вставляем токен нашего бота в телеграме
+sheets_id= '' # Сюда вставляем айди гугл таблицы (часть ссылки)
+sheets_size = 'A:F' # Здесь указываем столбцы от и до в которых содержатся данные
+sheets_ss_id= '' # Айди таблицы с себестоимостью
+sheets_size_ss= 'A:C' # Размер таблицы с сс
+sheets_id_other=''#Таблца со всем кроме икры
+sheets_ss_all=''# Таблица с себестоимсотью со всем кроме икры
+sheet_cassa= '' #Таблица с кассой
+sheet_cassa_size=''
+sheet_garage_ikra=''#Таблица с остатками икры
+sheet_garage_ikra_size='A:C'
+sheet_garage_all=''
+sheet_garage_all_size='A:C'
